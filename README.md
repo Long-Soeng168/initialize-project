@@ -1,7 +1,7 @@
 ## How to clone project
 Hello world
-- git clone https://github.com/Long-Soeng168/ataBunjun.git
-- cd ataBunjun
+- git clone https://github.com/Long-Soeng168/initialize-project.git
+- cd initialize-project
 - composer install
 - cp .env.example .env
 - php artisan key:generate
